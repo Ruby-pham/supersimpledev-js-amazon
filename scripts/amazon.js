@@ -1,3 +1,1 @@
-const products = [{
-    
-}]
+console.log('Hello')
